@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://amrit92.github.io//github/sitemap.xml 
+Sitemap: http://amrit92.github.io/sitemap.xml 

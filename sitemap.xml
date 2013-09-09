@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://amrit92.github.io//github/</loc>
+        <loc>http://amrit92.github.io/</loc>
         <lastmod>2013-09-08T11:37:17+05:30</lastmod>
     </url>
     <url>
-        <loc>http://amrit92.github.io//github/robots.txt</loc>
+        <loc>http://amrit92.github.io/robots.txt</loc>
         <lastmod>2013-09-08T11:21:22+05:30</lastmod>
     </url>
     <url>
-        <loc>http://amrit92.github.io//github/blog/archives/</loc>
+        <loc>http://amrit92.github.io/blog/archives/</loc>
         <lastmod>2013-09-08T11:37:17+05:30</lastmod>
     </url>
     <url>
-        <loc>http://amrit92.github.io//github/blog/categories/</loc>
+        <loc>http://amrit92.github.io/blog/categories/</loc>
         <lastmod>2013-09-08T11:37:17+05:30</lastmod>
     </url>
 </urlset>
